@@ -12,6 +12,8 @@ Software engineering is a discipline that involves using a set of engineering pr
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
+"Trial"
+
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
